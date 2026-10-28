@@ -1,0 +1,15 @@
+PORTFOLIO HOTEL SOL
+
+Contenido:
+- index.html: estructura y contenido de la web.
+- styles.css: diseño responsive, estilos y animaciones al hacer scroll.
+- script.js: barra de progreso, menú móvil, animaciones de entrada y demo interactiva de búsqueda.
+
+Cómo abrir:
+1. Descomprime el ZIP.
+2. Abre index.html con Chrome, Edge o Firefox.
+
+No requiere instalación ni servidor. La tipografía se carga desde Google Fonts si hay conexión; si no, se usan tipografías alternativas del sistema.
+
+IMPORTANTE SOBRE LAS VISTAS:
+La galería incluye recreaciones visuales diseñadas para explicar el proyecto, no capturas reales de la aplicación ejecutándose. Para una entrega final más fiel, se pueden sustituir por capturas reales tomadas de la aplicación Hotel Sol.
